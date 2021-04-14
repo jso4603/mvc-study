@@ -1,1 +1,15 @@
+.DS_Store
 /.metadata/
+/Servers/
+/**/.classpath
+/**/.project
+/**/.settings
+/**/.springBeans
+/**/.tern-project
+/**/pom.xml
+/**/target/
+/**/src/test/
+/**/src/main/resources/
+/**/src/main/webapp/WEB-INF/classes/
+/**/src/main/webapp/WEB-INF/spring/
+/**/src/main/webapp/WEB-INF/web.xml
